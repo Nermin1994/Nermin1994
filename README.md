@@ -1,4 +1,6 @@
 ## Hi there 👋
+Already done:
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/409f430e-d0cc-4df7-8c5f-5b0272accb81.jpeg?v=1791658669)](https://www.boot.dev/certificates/409f430e-d0cc-4df7-8c5f-5b0272accb81)
 
 <!--
 **Nermin1994/Nermin1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
